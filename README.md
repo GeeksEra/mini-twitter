@@ -1,5 +1,11 @@
 # mini-twitter 🔥
+
 ## Installation.
+
+1. Clone the repository:
+```shell
+git clone https://github.com/GeeksEra/mini-twitter.git
+
 
 2. Rename the file `example.env` to `.env`
 3. Update `.env` with your own configuration, e.g.:
